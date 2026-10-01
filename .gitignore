@@ -1,0 +1,12 @@
+.env
+.env.*
+*.env
+*.env.*
+!backend/.env.example
+.venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+.vscode/
+.pytest_cache/
